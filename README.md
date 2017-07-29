@@ -1,8 +1,8 @@
 # random_quote_machine
 The project has three files-
-index.html
-random_css.css
-random_js.js
+1. index.html
+2. random_css.css
+3. random_js.js
 
 To run this folllow these steps-
 1. Put all files in same directory.
